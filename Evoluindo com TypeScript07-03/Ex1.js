@@ -1,5 +1,5 @@
 // Criando o objeto meuCarro que implementa a interface Carro
-var meuCarro = {
+const meuCarro = {
     marca: 'Toyota',
     modelo: 'Corolla',
     ano: 2020,
